@@ -1,0 +1,10 @@
+com\test\task\controller\MainController.class
+com\test\task\domain\SGType.class
+com\test\task\config\MvcConfig.class
+com\test\task\domain\SGood.class
+com\test\task\repos\EmployeeRepo.class
+com\test\task\domain\Employee.class
+com\test\task\repos\GoodRepo.class
+com\test\task\SecurityConfig.class
+com\test\task\domain\Role.class
+com\test\task\TaskApplication.class
